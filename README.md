@@ -18,3 +18,9 @@ Herding services, pipelines, and occasionally AI agents.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,linux,docker,bash" alt="Technologies I work with" />
 </p>
+
+<p align="center">
+  <a href="mailto:iamserhappy@yandex.ru">
+    <img src="https://img.shields.io/badge/Email_me-2D2D2D?style=for-the-badge" alt="Email me" />
+  </a>
+</p>
