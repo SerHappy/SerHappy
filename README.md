@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @SerHappy
-- 👀 I’m interested in programming, data science, web, social net, and etc.
-- 🌱 I’m currently learning Python, Django.
+<h1 align="center">Kirill / SerHappy</h1>
 
-<!---
-SerHappy/SerHappy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <b>Platform Engineer at Yandex</b>
+</p>
+
+```console
+$ whoami
+Building CI/CD infrastructure, developer tooling, and automation.
+
+$ focus
+Developer platforms · Release engineering · Backend systems
+
+$ current_status
+Herding services, pipelines, and occasionally AI agents.
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,linux,docker,bash" alt="Technologies I work with" />
+</p>
